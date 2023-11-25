@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "back/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/back.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/back.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "back/1.0.0": {
+      "type": "project",
+      "path": "../back/back.csproj",
+      "msbuildProject": "../back/back.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "back >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\emile\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\emile\\OneDrive\\Desktop\\CESI\\A3 Informatique\\Projet 2 - Programmation Système\\Prosit 4 - Ce n'est pas qu'une question de mémoire\\Prosit4\\back\\back.csproj": {
+              "projectPath": "C:\\Users\\emile\\OneDrive\\Desktop\\CESI\\A3 Informatique\\Projet 2 - Programmation Système\\Prosit 4 - Ce n'est pas qu'une question de mémoire\\Prosit4\\back\\back.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

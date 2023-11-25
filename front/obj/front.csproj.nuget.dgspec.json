@@ -4,6 +4,61 @@
     "C:\\Users\\emile\\OneDrive\\Desktop\\CESI\\A3 Informatique\\Projet 2 - Programmation Système\\Prosit 4 - Ce n'est pas qu'une question de mémoire\\Prosit4\\front\\front.csproj": {}
   },
   "projects": {
+    "C:\\Users\\emile\\OneDrive\\Desktop\\CESI\\A3 Informatique\\Projet 2 - Programmation Système\\Prosit 4 - Ce n'est pas qu'une question de mémoire\\Prosit4\\back\\back.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\emile\\OneDrive\\Desktop\\CESI\\A3 Informatique\\Projet 2 - Programmation Système\\Prosit 4 - Ce n'est pas qu'une question de mémoire\\Prosit4\\back\\back.csproj",
+        "projectName": "back",
+        "projectPath": "C:\\Users\\emile\\OneDrive\\Desktop\\CESI\\A3 Informatique\\Projet 2 - Programmation Système\\Prosit 4 - Ce n'est pas qu'une question de mémoire\\Prosit4\\back\\back.csproj",
+        "packagesPath": "C:\\Users\\emile\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\emile\\OneDrive\\Desktop\\CESI\\A3 Informatique\\Projet 2 - Programmation Système\\Prosit 4 - Ce n'est pas qu'une question de mémoire\\Prosit4\\back\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\emile\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\emile\\OneDrive\\Desktop\\CESI\\A3 Informatique\\Projet 2 - Programmation Système\\Prosit 4 - Ce n'est pas qu'une question de mémoire\\Prosit4\\front\\front.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -27,7 +82,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\emile\\OneDrive\\Desktop\\CESI\\A3 Informatique\\Projet 2 - Programmation Système\\Prosit 4 - Ce n'est pas qu'une question de mémoire\\Prosit4\\back\\back.csproj": {
+                "projectPath": "C:\\Users\\emile\\OneDrive\\Desktop\\CESI\\A3 Informatique\\Projet 2 - Programmation Système\\Prosit 4 - Ce n'est pas qu'une question de mémoire\\Prosit4\\back\\back.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

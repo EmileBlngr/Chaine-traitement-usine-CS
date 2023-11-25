@@ -1,0 +1,12 @@
+C:\Users\emile\OneDrive\Desktop\CESI\A3 Informatique\Projet 2 - Programmation Système\Prosit 4 - Ce n'est pas qu'une question de mémoire\Prosit4\back\bin\Debug\net6.0\back.deps.json
+C:\Users\emile\OneDrive\Desktop\CESI\A3 Informatique\Projet 2 - Programmation Système\Prosit 4 - Ce n'est pas qu'une question de mémoire\Prosit4\back\bin\Debug\net6.0\back.dll
+C:\Users\emile\OneDrive\Desktop\CESI\A3 Informatique\Projet 2 - Programmation Système\Prosit 4 - Ce n'est pas qu'une question de mémoire\Prosit4\back\bin\Debug\net6.0\back.pdb
+C:\Users\emile\OneDrive\Desktop\CESI\A3 Informatique\Projet 2 - Programmation Système\Prosit 4 - Ce n'est pas qu'une question de mémoire\Prosit4\back\obj\Debug\net6.0\back.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emile\OneDrive\Desktop\CESI\A3 Informatique\Projet 2 - Programmation Système\Prosit 4 - Ce n'est pas qu'une question de mémoire\Prosit4\back\obj\Debug\net6.0\back.AssemblyInfoInputs.cache
+C:\Users\emile\OneDrive\Desktop\CESI\A3 Informatique\Projet 2 - Programmation Système\Prosit 4 - Ce n'est pas qu'une question de mémoire\Prosit4\back\obj\Debug\net6.0\back.AssemblyInfo.cs
+C:\Users\emile\OneDrive\Desktop\CESI\A3 Informatique\Projet 2 - Programmation Système\Prosit 4 - Ce n'est pas qu'une question de mémoire\Prosit4\back\obj\Debug\net6.0\back.csproj.CoreCompileInputs.cache
+C:\Users\emile\OneDrive\Desktop\CESI\A3 Informatique\Projet 2 - Programmation Système\Prosit 4 - Ce n'est pas qu'une question de mémoire\Prosit4\back\obj\Debug\net6.0\back.sourcelink.json
+C:\Users\emile\OneDrive\Desktop\CESI\A3 Informatique\Projet 2 - Programmation Système\Prosit 4 - Ce n'est pas qu'une question de mémoire\Prosit4\back\obj\Debug\net6.0\back.dll
+C:\Users\emile\OneDrive\Desktop\CESI\A3 Informatique\Projet 2 - Programmation Système\Prosit 4 - Ce n'est pas qu'une question de mémoire\Prosit4\back\obj\Debug\net6.0\refint\back.dll
+C:\Users\emile\OneDrive\Desktop\CESI\A3 Informatique\Projet 2 - Programmation Système\Prosit 4 - Ce n'est pas qu'une question de mémoire\Prosit4\back\obj\Debug\net6.0\back.pdb
+C:\Users\emile\OneDrive\Desktop\CESI\A3 Informatique\Projet 2 - Programmation Système\Prosit 4 - Ce n'est pas qu'une question de mémoire\Prosit4\back\obj\Debug\net6.0\ref\back.dll
